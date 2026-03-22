@@ -5,7 +5,7 @@ Este projeto foi desenvolvido com o objetivo de praticar o uso do **Sass (SCSS)*
 ## 🌐 Confira
 
 🔗 Acesse o projeto online:  
-https://seu-link-da-vercel.vercel.app
+https://projeto-com-sass-one.vercel.app/
 
 
 ## 🚀 Tecnologias utilizadas
